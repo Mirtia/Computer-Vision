@@ -9,7 +9,7 @@
 ![[Photography-Art.png]]
 **Figure 2**. Example of Pinhole photography [Cameron Gillie ](https://thepinholething.com/pinhole-photography/)
 
-## Pinhole and Perspective Projections
+### Pinhole and Perspective Projections
 
 ![[Image-Formation.png]]
 
@@ -50,7 +50,7 @@ Imagine a pinhole camera capturing an image of a tall building. If the screen is
 
 ### Ideal Pinhole Size
 
-![[PInhole-Camera-Size.png]]
+![[Pinhole-Camera-Size.png]]
 
 Ideal size of the pinhole:
 $$d\approx 2\cdot \sqrt{f \cdot λ}$$
