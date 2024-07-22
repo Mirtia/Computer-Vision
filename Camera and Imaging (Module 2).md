@@ -6,17 +6,17 @@
 
 - Artistic Purposes
 
-![[Pasted image 20240722141845.png]]
+![[Photography-Art.png]]
 **Figure 2**. Example of Pinhole photography [Cameron Gillie ](https://thepinholething.com/pinhole-photography/)
 
 ## Pinhole and Perspective Projections
 
-![[Pasted image 20240722142327.png]]
+![[Image-Formation.png]]
 
 >You cannot see an image being formed because the screen receives light from a lot of different points, creating overlapping of light rays, making it impossible to see a clear image being formed.
 
 
-![[Pasted image 20240722143114.png]]
+![[Focal-Length.png]]
 
 - *"...z-axis points toward the image plane and lies on the optical axis..."*
   *Optical axis:* axis perpendicular to the image plane
