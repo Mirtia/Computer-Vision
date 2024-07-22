@@ -27,3 +27,37 @@
 > Because they are proportional we can derive the following formula:
 > $$ \frac{a}{a'} = \frac{b}{b'} = \frac{c}{c'}$$
 
+### Image Magnification
+
+![[Image-Magnification.png]]
+
+Applying Perspective Projection:
+
+![[Perspective-Projection.png]]
+...
+$$ 
+|m| = |\frac{f}{z_0}|
+$$
+Image size inversely proportional to depth  
+
+### Visualizing the Effect
+
+Imagine a pinhole camera capturing an image of a tall building. If the screen is 2 meters behind the pinhole, you get a smaller but possibly brighter and sharper image. Moving the screen to 4 meters increases the image size, showing more detail of the building but potentially reducing sharpness and brightness, requiring adjustments in exposure time.
+
+### Finding the Vanishing Point
+
+![[Vanishing-Point.png]]
+
+### Ideal Pinhole Size
+
+![[PInhole-Camera-Size.png]]
+
+Ideal size of the pinhole:
+$$d\approx 2\cdot \sqrt{f \cdot λ}$$
+f: effective focal length
+λ: wavelength
+
+- Pinhole cameras require long exposures to capture bright images
+
+## Lenses
+
