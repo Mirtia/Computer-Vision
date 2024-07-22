@@ -1,2 +1,7 @@
 # Computer-Vision
-Computer Vision Markdown notes to self study (online courses and code)
+
+## Notes
+
+- **Modules**
+	- [Module 2 - Image Formation](Modules/02-Camera-and-Imaging.md)
+
