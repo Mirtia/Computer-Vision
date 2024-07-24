@@ -26,7 +26,9 @@
 >Two triangles are **similar** if they have the same shape but not necessarily the same size. The corresponding angles are equal, and the corresponding sides are **proportional**. We can think of one similar triangle as an enlargement or a reduction of the other. (See [Similar Triangles](https://math.libretexts.org/Bookshelves/Precalculus/Trigonometry_(Yoshiwara)/01%3A_Triangles_and_Circles/1.01%3A_Similar_Triangles)).
 >
 >Because they are proportional we can derive the following formula:
-> $$ \frac{a}{a'} = \frac{b}{b'} = \frac{c}{c'}$$
+
+> $$\frac{a}{a'} = \frac{b}{b'} = \frac{c}{c'}$$
+
 
 ### Image Magnification
 
@@ -37,9 +39,9 @@
 ![[Perspective-Projection.png]]
 
 - Magnification
-$$ 
-|m| = |\frac{f}{z_0}|
-$$
+
+$$|m| = |\frac{f}{z_0}|$$
+
 - Image size inversely proportional to depth!
 
 ### Visualizing the Effect
@@ -55,7 +57,9 @@ Imagine a pinhole camera capturing an image of a tall building. If the screen is
 ![[Pinhole-Camera-Size.png]]
 
 - Ideal size of the pinhole:
+
 $$d\approx 2\cdot \sqrt{f \cdot λ}$$
+
 *f*: effective focal length
 *λ*: wavelength
 
